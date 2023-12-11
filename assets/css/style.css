@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-  color: #717ff5;
+  color: #0d4dbd;
   text-decoration: none;
 }
 
@@ -481,7 +481,7 @@ section {
   margin: 0;
   font-size: 48px;
   font-weight: 700;
-  color: #012970;
+  color: #0d4dbd;
 }
 
 .hero h2 {
@@ -576,14 +576,14 @@ section {
 .about h3 {
   font-size: 14px;
   font-weight: 700;
-  color: #4154f1;
+  color: #0d4dbd;
   text-transform: uppercase;
 }
 
 .about h2 {
   font-size: 24px;
   font-weight: 700;
-  color: #012970;
+  color: #0d4dbd;
 }
 
 .about p {
@@ -637,7 +637,7 @@ section {
 
 .values .box h3 {
   font-size: 24px;
-  color: #012970;
+  color: #0d4dbd;
   font-weight: 700;
   margin-bottom: 18px;
 }
@@ -677,7 +677,7 @@ section {
   font-size: 36px;
   display: block;
   font-weight: 600;
-  color: #0b198f;
+  color: #0d4dbd;
 }
 
 .counts .count-box p {
@@ -699,7 +699,7 @@ section {
 
 .features .feature-box h3 {
   font-size: 18px;
-  color: #012970;
+  color: #0d4dbd;
   font-weight: 700;
   margin: 0;
 }
@@ -724,7 +724,7 @@ section {
 }
 
 .features .feture-tabs h3 {
-  color: #012970;
+  color: #0d4dbd;
   font-weight: 700;
   font-size: 32px;
   margin-bottom: 10px;
@@ -761,7 +761,7 @@ section {
   font-size: 18px;
   margin: 0;
   font-weight: 700;
-  color: #012970;
+  color: #0d4dbd;
 }
 
 .features .feture-tabs .tab-content i {
@@ -776,7 +776,7 @@ section {
 }
 
 .features .feature-icons h3 {
-  color: #012970;
+  color: #0d4dbd;
   font-weight: 700;
   font-size: 32px;
   margin-bottom: 20px;
@@ -797,7 +797,7 @@ section {
   font-size: 20px;
   font-weight: 700;
   margin: 0 0 10px 0;
-  color: #012970;
+  color: #0d4dbd;
 }
 
 .features .feature-icons .content .icon-box i {
@@ -1205,12 +1205,12 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #012970;
+  color: #0d4dbd;
   font-weight: 700;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #012970;
+  color: #0d4dbd;
   font-weight: 600;
   font-size: 14px;
   text-transform: uppercase;
@@ -2053,7 +2053,7 @@ section {
   border-radius: 4px;
   padding: 10px 20px;
   border: 0;
-  background-color: #012970;
+  background-color: #0b5ce9;
 }
 
 .blog .blog-comments .reply-form .btn-primary:hover {
@@ -2061,7 +2061,7 @@ section {
 }
 
 .blog .blog-pagination {
-  color: #024ed5;
+  color: #075ae9;
 }
 
 .blog .blog-pagination ul {
@@ -2334,7 +2334,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
+  color: #0d4dbd;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -2349,20 +2349,20 @@ section {
 .footer .footer-top .social-links a {
   font-size: 20px;
   display: inline-block;
-  color: rgba(1, 41, 112, 0.5);
+  color: rgba(20, 101, 240, 0.863);
   line-height: 0;
   margin-right: 10px;
   transition: 0.3s;
 }
 
 .footer .footer-top .social-links a:hover {
-  color: #012970;
+  color: #0a337a;
 }
 
 .footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #012970;
+  color: #0d4dbd;
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
@@ -2396,14 +2396,14 @@ section {
 }
 
 .footer .footer-top .footer-links ul a {
-  color: #013289;
+  color: #0d4dbd;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
 }
 
 .footer .footer-top .footer-links ul a:hover {
-  color: #4154f1;
+  color: #051496;
 }
 
 .footer .footer-top .footer-contact p {
@@ -2413,12 +2413,12 @@ section {
 .footer .copyright {
   text-align: center;
   padding-top: 30px;
-  color: #012970;
+  color: #0d4dbd;
 }
 
 .footer .credits {
   padding-top: 10px;
   text-align: center;
   font-size: 13px;
-  color: #012970;
+  color: #0d4dbd;
 }
